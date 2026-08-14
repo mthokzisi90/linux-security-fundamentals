@@ -103,8 +103,9 @@ Examples include:
 
 ```bash
 sudo useradd username
-sudo usermod username
+sudo usermod -aG groupname username
 sudo userdel username
+
 ```
 
 These skills are important for security because properly managing user accounts and permissions helps support the **principle of least privilege**.
@@ -162,6 +163,17 @@ I plan to continue expanding this repository with:
 * More cybersecurity labs
 
 ---
+
+### 2. Add a closing career-focused section
+
+At the bottom, just before the `---`, add:
+
+```markdown
+## 🎯 Career Relevance
+
+The skills demonstrated in this repository are relevant to entry-level **IT Support** and **Cybersecurity Analyst** roles.
+
+They demonstrate my ability to work with Linux command-line tools, investigate files and system information, manage users and permissions, and apply basic security principles.
 
 **Author:** Mthokozisi Khulu
 **GitHub:** [@mthokozisi90](https://github.com/mthokozisi90)
