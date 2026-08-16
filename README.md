@@ -176,6 +176,6 @@ The skills demonstrated in this repository are relevant to entry-level **IT Supp
 They demonstrate my ability to work with Linux command-line tools, investigate files and system information, manage users and permissions, and apply basic security principles.
 
 **Author:** Mthokozisi Khulu
-**GitHub:** [@mthokozisi90](https://github.com/mthokozisi90)
+**GitHub:** [@mthokzisi90](https://github.com/mthokzisi90)
 
 ⭐ This repository documents my ongoing journey into IT Support and Cybersecurity.
